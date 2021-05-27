@@ -216,14 +216,7 @@ class Game:
                     messagebox.showinfo('2048', message="Y0U WONNNN!!!")
                     print("won")
                     break
-        
-        # if flag==1: #found 2048
-        #     self.won=True
-        #     messagebox.showinfo('2048', message="Y0U WONNNN!!!")
-        #     print("won")
-        #     return
-
-        
+         
        #for checking if there is any vacant tile left or any tile can merge, game will continue,flag set to 1
         for i in range(4):
             for j in range(4):
