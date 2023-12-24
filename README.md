@@ -3,7 +3,8 @@
 This 2048 Game was made using Python. We used Tkinter for the GUI, and custom logic for the inside game.
 
 # Start of the game:
-At the start of the game two '2's are displayed on two random tiles on the grid. The window also displays a button for playing musi in the background.
+At the start of the game two '2's are displayed on two random tiles on the grid. The window also displays a button for playing music in the background.
+
 ![image](https://github.com/Dhairya004/A3-Team-4-Python-Mini-Project-2048-Game/assets/84791206/8eeaa2ef-1a32-4ab9-91a3-37e913d4933a)
 
 # The game in progress:
